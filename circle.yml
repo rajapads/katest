@@ -9,6 +9,6 @@ machine:
       
 test:
   override:
-  - print " test " 
+
   - git init
   - git clone git://github.com/rajapads/testscript
