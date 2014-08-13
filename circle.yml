@@ -9,4 +9,6 @@ machine:
       
 test:
   override:
-    - ./test_script.rb
+  print " tets " 
+  git init
+    
