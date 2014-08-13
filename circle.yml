@@ -9,6 +9,6 @@ machine:
       
 test:
   override:
-  print " tets " 
-  git init
+  - print " tets " 
+  - git init
     
