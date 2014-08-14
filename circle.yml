@@ -11,4 +11,4 @@ test:
   override:
 
   - git init
-  - git clone git://github.com/rajapads/testscript
+  - git clone git://github.com/rajapads/katest
